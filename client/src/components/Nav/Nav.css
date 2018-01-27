@@ -1,0 +1,21 @@
+nav.navbar {
+  margin-bottom: 0;
+}
+
+.container-fluid{
+  background-color: black;
+}
+.navbar-brand{
+  color: white;
+  font-family: 'Space Mono', monospace;
+  font-size: 25px;
+}
+
+.navbar-collapse{
+  flex-basis: 50%;
+  float:right;
+}
+
+.navbar-header{
+  float: left;
+}
