@@ -4,7 +4,7 @@ Launchbox brings users together to experience the future of space exploration. W
 
 Our unique app allows users to share their excitement about space and technology on Twitter where they can plan meet-ups or invite friends to join a viewing party. 
 
-Check out our deployed app on Heroku! [link to LaunchBox!](http://google.com)
+Check out our deployed app on Heroku! [link to LaunchBox!](https://launchbox2.herokuapp.com/)
 
 **LaunchBox** is a single-page React application that utilizes a Node server, node packages such as: react-boostrap and react-twitter-widgets, MongoDB with the node package "Mongoose" and Auth0 for authentication. 
 
